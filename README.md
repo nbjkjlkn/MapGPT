@@ -72,11 +72,20 @@ Note that you should modify the following part in gpt4o.sh to set the path to yo
 ```
 
 ## Citation
-<pre>
+```bash
+@inproceedings{chen2024affordances,
+  title={Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation},
+  author={Chen, Jiaqi and Lin, Bingqian and Liu, Xinmin and Ma, Lin and Liang, Xiaodan and Wong, Kwan-Yee~K.},
+  booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+  year={2025}
+}
+```
+
+```bash
 @inproceedings{chen2024mapgpt,
   title={MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation},
   author={Chen, Jiaqi and Lin, Bingqian and Xu, Ran and Chai, Zhenhua and Liang, Xiaodan and Wong, Kwan-Yee~K.},
   booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
   year={2024}
 }
-</pre>
+```
